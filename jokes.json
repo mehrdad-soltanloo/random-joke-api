@@ -1,0 +1,22 @@
+[
+  { "id": 1, "joke": "Why do programmers prefer dark mode? Because light attracts bugs!" },
+  { "id": 2, "joke": "How many programmers does it take to change a light bulb? None. That’s a hardware problem." },
+  { "id": 3, "joke": "Why do Java developers wear glasses? Because they don’t see sharp." },
+  { "id": 4, "joke": "How do you comfort a JavaScript bug? You console it." },
+  { "id": 5, "joke": "Why did the developer go broke? Because he used up all his cache." },
+  { "id": 6, "joke": "What is a programmer’s favorite hangout place? Foo Bar." },
+  { "id": 7, "joke": "Why was the JavaScript developer sad? Because he didn’t know how to null his feelings." },
+  { "id": 8, "joke": "What’s a computer’s favorite beat? An algo-rhythm." },
+  { "id": 9, "joke": "Why do Python programmers have low self-esteem? Because they constantly compare themselves to self." },
+  { "id": 10, "joke": "What’s the object-oriented way to become wealthy? Inheritance." },
+  { "id": 11, "joke": "Why did the two JavaScript arrays break up? Because they didn’t map together well." },
+  { "id": 12, "joke": "Why was the function feeling sad? Because it didn’t return anything." },
+  { "id": 13, "joke": "Why don’t programmers like nature? It has too many bugs." },
+  { "id": 14, "joke": "What’s a programmer’s favorite music genre? Algo-rhythm & blues." },
+  { "id": 15, "joke": "Why was the database administrator always invited to parties? Because they really know how to table the conversation." },
+  { "id": 16, "joke": "How does a computer get drunk? It takes screenshots." },
+  { "id": 17, "joke": "Why do developers hate math? Because it has too many logarithms." },
+  { "id": 18, "joke": "Why did the computer cross the road? To get to the other IDE." },
+  { "id": 19, "joke": "How do you know a developer is an optimist? They call their errors 'features'." },
+  { "id": 20, "joke": "Why don’t web developers trust the ocean? Because it has too many divs." }
+]
